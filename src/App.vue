@@ -25,7 +25,7 @@ import router from './router'
         :mainTitle="mainTitle" 
         :subTitle="subTitle"
     />
-    <router-view/>
+    <router-view> </router-view>
 
     <FooterComponent
         :mainTitle="mainTitle" 
